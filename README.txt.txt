@@ -1,0 +1,1 @@
+Template project with Selenium WebDriver & Java using Maven and TestNG 
